@@ -1,0 +1,23 @@
+.cabecalho {
+    background-color: blue;
+    color: aliceblue;
+    padding: 15px;
+}
+
+.corpo {
+    background-color: yellow;
+    padding: 50px;
+
+}
+
+.corpo ol li {
+    margin-top: 5px;
+    text-align: center;
+    list-style: none;
+}
+
+.final {
+    background-color: deeppink;
+    text-align: end;
+    padding: 10px;
+}
